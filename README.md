@@ -11,7 +11,6 @@
 const gabriel = {
   pronouns: "he" | "him",
   code: ["Javascript", "Typescript", "HTML", "CSS", "Python"],
-  tools: ["Linux", "Open Source"],
   design: ["PSD", "AI", "SVG"],
   languages: {
     fluent: ["Portuguese", "English"],
